@@ -1,2 +1,2 @@
 # someProjects
-HTML e CSS básicos
+HTML, CSS e PHP básicos.
